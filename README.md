@@ -1,2 +1,3 @@
 # Summer2021
 W200/W201 Course Work
+I am trying to acquire tangible skills...
