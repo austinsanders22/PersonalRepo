@@ -16,3 +16,10 @@ Final OLS Regression Analysis - https://github.com/austinsanders22/W203_Final_Pr
 Final Data Pipeline Project - https://github.com/austinsanders22/PersonalRepo/tree/main/w205_final_project
 
 ## Introduction to Machine Learning (W207)
+
+## Data Visualization and Communication (W209)
+Fitness Dashboard - https://apps-spring21.ischool.berkeley.edu/fitnessdash/
+
+## Behind the Data: Humans & Values (W231)
+
+## Experiments and Casual Inference (W241)
