@@ -2,6 +2,7 @@
 
 ## Personal Work
 Whoop Data Pull - https://github.com/austinsanders22/PersonalRepo/blob/main/whooppull.ipynb
+  source (https://gist.github.com/jkreileder/459cf1936e099e2e521cee7d2d4b7acb)
 
 ## UC Berkeley Master of Information and Data Science
 ### Introduction to Data Science Programming (W200)
