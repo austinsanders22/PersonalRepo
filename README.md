@@ -10,7 +10,7 @@ Object Oriented Programming Assignment - https://github.com/austinsanders22/Pers
 Pandas Data Analysis Project - https://github.com/austinsanders22/PersonalRepo/tree/main/w200_final_project
 
 ## Statistics for Data Science (W203)
-Final OLS Regression Analysis - https://github.com/austinsanders22/W203_Final_Project
+Final OLS Regression Analysis - https://github.com/austinsanders22/W203_Final_Project/blob/main/report/W203_Lab_2_Report.pdf
 
 ## Fundamentals of Data Engineering (W205)
 Final Data Pipeline Project - https://github.com/austinsanders22/PersonalRepo/tree/main/w205_final_project
