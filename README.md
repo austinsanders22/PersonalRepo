@@ -1,9 +1,9 @@
 # Austin Sanders Github Overview
 
-## Personal Work
+# Personal Work
 Whoop Data Pull - https://github.com/austinsanders22/PersonalRepo/blob/main/whooppull.ipynb
 
-## UC Berkeley Master of Information and Data Science
+# UC Berkeley Master of Information and Data Science
 ## Introduction to Data Science Programming (W200)
 Object Oriented Programming Assignment - https://github.com/austinsanders22/PersonalRepo/blob/main/project_1
 
