@@ -17,9 +17,10 @@ Final OLS Regression Analysis - https://github.com/austinsanders22/W203_Final_Pr
 Final Data Pipeline Project - https://github.com/austinsanders22/PersonalRepo/tree/main/w205_final_project
 
 ### Introduction to Machine Learning (W207)
+Part of a team that built four machine learning models (linear regression, logistic regression, decision tree, random forest) to predict medical patients showing up for their ride provided by a medical rideshare company. The models and analysis cannot be shared because of the sensitive nature of the data.
 
 ### Data Visualization and Communication (W209)
-Fitness Dashboard - https://apps-spring21.ischool.berkeley.edu/fitnessdash/
+Integrated individual fitness data from multiple sources into one dashboard - https://apps-spring21.ischool.berkeley.edu/fitnessdash/
 
 ### Behind the Data: Humans & Values (W231)
 
